@@ -1,3 +1,4 @@
 node_modules
 public
 @ssh.phx.nearlyfreespeech.net
+*.DS_Store

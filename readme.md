@@ -8,6 +8,9 @@ Actual site is deployed on NearlyFreeSpeech I blogged about it [here](https://de
 
 Thanks to @55sketch for [GSX2JSON](https://github.com/55sketch/gsx2json) - Google Spreadsheet to JSON API service.
 
+The `npm build` of the front-end (Vue-cli 2.x) app exists in dist/static
+The repo for that is [here]
+
 ## Install
 
 - Run `npm install`
